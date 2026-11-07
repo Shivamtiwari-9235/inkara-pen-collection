@@ -1,0 +1,10 @@
+{
+  "name": "inkara-luxury-ecommerce-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix .\\inkara-luxury-ecommerce run dev",
+    "build": "npm --prefix .\\inkara-luxury-ecommerce run build",
+    "start": "npm --prefix .\\inkara-luxury-ecommerce run start",
+    "lint": "npm --prefix .\\inkara-luxury-ecommerce run lint"
+  }
+}
